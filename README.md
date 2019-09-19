@@ -11,5 +11,9 @@
 ```
 
 ### Open in browser
+
 http://ip:8080
-admin | Einohng6
+
+username: admin
+
+password: Einohng6
