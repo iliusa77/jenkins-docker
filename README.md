@@ -7,7 +7,7 @@
     docker build -t jenkins-master .
     cd ../slave
     docker build -t jenkins-slave .
-    docker-compose -f docker-compose.ci.yml up
+    docker-compose -f docker-compose-ci.yml up
 ```
 
 ### Open in browser
